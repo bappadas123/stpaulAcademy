@@ -1,5 +1,3 @@
-import React from 'react'
-import { Link, Navigate } from "react-router-dom";
 
 function Home() {
   return (
@@ -9,7 +7,7 @@ function Home() {
    
     
         <div className="rounded-lg bg-white p-8 text-center shadow-md">
-          <h2 className="mb-4 text-2xl font-semibold">Welcome 👋</h2>
+          <h2 className="mb-4 text-2xl font-semibold">Welcome the github changes👋</h2>
           <p className="text-gray-600">
             This is a simple home page built with React and Tailwind CSS.
           </p>
